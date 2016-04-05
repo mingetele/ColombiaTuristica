@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/eHotel"
+        android:title="@string/Hoteles"/>
+    <item android:id="@+id/eBares"
+        android:title="@string/Bares"/>
+    <item android:id="@+id/eSitios"
+        android:title="@string/SitiosTurist"/>
+    <item android:id="@+id/eInfoDe"
+        android:title="@string/InfoDemo"/>
+    <item android:id="@+id/eAcercaDe"
+        android:title="@string/AcerdaDe"/>
+
+</menu>

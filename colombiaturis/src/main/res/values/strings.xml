@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">colombiaTuristica</string>
+    <string name="SanCarlos">San Carlos Antioquia</string>
+    <string name="Introduccion">Es uno de los municipios mas bellos de Antioquia, Ubicado en el oriente del departamento
+        a 4 horas desde Medellin, Rodeado de agradables balnearios y hermosos Sitios Turisticos.</string>
+    <string name="Hoteles">Hoteles</string>
+    <string name="Bares">Bares</string>
+    <string name="SitiosTurist">Sitios Turisticos</string>
+    <string name="InfoDemo">Informacion Demografica</string>
+    <string name="AcerdaDe">Acerca De</string>
+    <string name="Hotel1">Hosteria Alcatraz</string>
+    <string name="InfoHotel1">Es un hermoso hotel ubicado en el kilometro 2 via a Granada, con fabulosas zonas humedas
+        y acceso directo al rio San Carlos</string>
+    <string name="Hotel2">Hotel Casa Colonial</string>
+    <string name="InfoHotel2">Hermoso hotel colonial, ubicado detras de la iglesia del parque principal, con 19 habitaciones,
+        Aire Acondicionado, TV por cable y WiFi.</string>
+    <string name="Hotel3">Hotel Casa Campestre La Cascada</string>
+    <string name="InfoHotel3">Hermoso hotel rodeado de naturaleza, con capacidad para 35 personas, tiene servicio de
+        Alojamiento, Comedor, Billar, Baloncesto y Microfutbol.</string>
+    <string name="Bar1">Bar La Cascada</string>
+    <string name="InfoBar1">Ubicado a dos cuadras del parque principal, Ideal para pasar una noche de Baile con la mejor musica
+        y la mejor pista de baile de San Carlos.</string>
+    <string name="Bar2">Bar Sayonara</string>
+    <string name="InfoBar2">Ubicado en el parque principal, Ideal para escuchar la mejor musica de los años 60, con un
+        excelente servicio y comodos espacios.</string>
+    <string name="Bar3">Bar Oskar</string>
+    <string name="InfoBar3">Ubicado en el parque principal, Vive la mejor experiencia de luces y sonidos para
+        pasar un buen rato de rumba, cuenta con aire acondicionado y gran variedad de licores</string>
+    <string name="Sitios1">La Cascada</string>
+    <string name="InfoSitios1">Tres hermosos saltos de agua, de aproximadamente 10 metros cada una, para llegar
+        a ellas se toma una desviacion en el caserio que esta en el sendero ecologico La Viejita.</string>
+    <string name="Sitios2">La Piedra Del Tabor</string>
+    <string name="InfoSitios2">Esta ubicada a 5 horas del parque principal, para llegar a ella se pasa por las cascadas
+        y por varios senderos ecologicos, es considerada una de las formaciones geologicas mas grandes de Antioquia.</string>
+    <string name="Sitios3">Estadero San Antonio</string>
+    <string name="InfoSitios3">Es un balneario familiar de aguas cristalinas, esta ubicado en el sector La Viejita a
+        2 kilometros del parque principal</string>
+    <string name="Poblacion">Poblacion total: 16064 Habitantes.</string>
+    <string name="Urbana">Poblacion Urbana: 6031 Habitantes.</string>
+    <string name="Rural">Poblacion Rural: 10033 Habitantes.</string>
+    <string name="Alfabetismo">Alfabetismo: 99.3%.</string>
+    <string name="Realizado">Realizado Por: Juan Carlos Alvarez.</string>
+    <string name="Anno">Año 2016.</string>
+    <string name="Derechos">Todos los derechos reservados.</string>
+    <string name="Prohibido">Prohibida su copia o distribucion sin previa autorizacion.</string>
+
+
+</resources>

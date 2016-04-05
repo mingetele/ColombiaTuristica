@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">colombiaTourism</string>
+    <string name="SanCarlos">San Carlos Antioquia</string>
+    <string name="Introduccion">It is one of the most beautiful municipalities of Antioquia, located in the east
+        of the department, located 4 hours from Medellin, and surrounded by beautiful spas and Tourist Sites</string>
+    <string name="Hoteles">Hotels</string>
+    <string name="Bares">Pubs</string>
+    <string name="SitiosTurist">Tourist Sites</string>
+    <string name="InfoDemo">Demographic Information</string>
+    <string name="AcerdaDe">About</string>
+    <string name="Hotel1">Alcatraz Inn</string>
+    <string name="InfoHotel1">It is a beautiful hotel located at Km 2 via a Granada with fabulous wet areas
+        and direct access to the river San Carlos.</string>
+    <string name="Hotel2">Casa Colonial Hotel</string>
+    <string name="InfoHotel2">Beautiful colonial hotel, located behind the church s main park, with 19
+        rooms,air conditioning, cable TV and WiFi.</string>
+    <string name="Hotel3">Casa Campestre La Cascada Hotel</string>
+    <string name="InfoHotel3">Beautiful hotel surrounded by nature, with capacity for 35 people, has service Lodging,
+        Dining Room, Billiards, Basketball and microfútbol.</string>
+    <string name="Bar1">La Cascada Pub</string>
+    <string name="InfoBar1">Located two blocks from the main park, Ideal for a night of dancing with the best music
+        and the best dance of San Carlos.</string>
+    <string name="Bar2">Sayonara Pub</string>
+    <string name="InfoBar2">Located in the main park, Ideal for listening to the best music of the 60s, with
+        excellent service and comfortable spaces.</string>
+    <string name="Bar3">Oskar Pub</string>
+    <string name="InfoBar3">Located in the main park, lives the best experience of light and sound to have a good time rumba,
+        has air conditioning and a variety of liquors.</string>
+    <string name="Sitios1">La Cascada</string>
+    <string name="InfoSitios1">Three beautiful waterfalls, about 10 meters each, to reach them a deviation in the hamlet that is in
+        the ecological trail takes the Viejita.</string>
+    <string name="Sitios2">Stone Tabor</string>
+    <string name="InfoSitios2">Is located 5 hours main park to get to it is passed by waterfalls and several ecological trails, it is considered
+        one of the largest geological formations of Antioquia.</string>
+    <string name="Sitios3">San Antonio Hostel</string>
+    <string name="InfoSitios3">It is a family resort with crystal clear water, it is located in the La Viejita to
+        two kilometers from the main park.</string>
+    <string name="Poblacion">Total Population: 16064 Inhabitants.</string>
+    <string name="Urbana">Urban Population: 6031 Habitantes.</string>
+    <string name="Rural">Rural Population: 10033 Habitantes.</string>
+    <string name="Alfabetismo">Literacy: 99.3%.</string>
+    <string name="Realizado">Made by: Juan Carlos Alvarez.</string>
+    <string name="Anno">Year 2016.</string>
+    <string name="Derechos">All rights reserved.</string>
+    <string name="Prohibido">Copy or distribution prohibited without prior authorization.</string>
+
+
+</resources>
